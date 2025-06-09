@@ -1,0 +1,1 @@
+import{p as t}from"../chunks/chunk-3DTL4XOQ.js";import"../chunks/chunk-733SXZOW.js";import"../chunks/chunk-U7FXM4JE.js";import"../chunks/chunk-ZZJM66LV.js";import"../chunks/chunk-PDIOZR2P.js";import"../chunks/chunk-AT6M4CEW.js";import"../chunks/chunk-3GYLW4KZ.js";async function m(o){return t.default.getPlatformV2(o)}export{m as getPlatformV2};
